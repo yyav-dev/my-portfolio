@@ -43,11 +43,11 @@ export const TIMELINE = [
 export const PROJECTS = [
   {
     emoji: "👨‍💻",
-    title: "Personal Portfolio",
+    title: "My Portfolio",
     desc: "A personal portfolio website built with React.",
     tags: ["ReactJS", "Tailwindcss" ],
-    demo: "#",
-    code: "#",
+    demo: "https://karthicyadhav-s.netlify.app/",
+    code: "https://github.com/yyav-dev/my-portfolio",
   },
   {
     emoji: "🛒",
