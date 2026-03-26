@@ -81,7 +81,7 @@ export default function Footer({ navigate }) {
         {/* Bottom bar */}
         <div className="flex flex-wrap justify-between items-center pt-6 border-t border-white/5 text-xs text-gray-500 gap-2">
           <span>
-            © 2025 <span className="text-violet-300">{META.name}</span>. All
+            © 2026 <span className="text-violet-300">{META.name}</span>. All
             rights reserved.
           </span>
           <span>
